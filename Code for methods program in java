@@ -1,0 +1,14 @@
+public class github{
+    
+    static void practice(){
+        String[] bikes = {"Honda","Splender","Shine","BMW"};
+        for(String i : bikes){
+            System.out.println("the element name is : "+i);
+        }
+    }
+    
+    public static void main(String args[]){
+        practice();
+    }
+    
+}
